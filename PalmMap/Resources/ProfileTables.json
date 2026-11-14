@@ -1,0 +1,828 @@
+{
+  "character": {
+    "1": [
+      "İnisiyatif ve bağımsız yön",
+      "Bir işi başlatma ve yön verme dürtüsü güçlüdür.",
+      "Karar gücünü net bir ilk adımda kullan.",
+      "Her yükü tek başına alma ve sabırsız sonuca koşma.",
+      "Initiative and autonomy",
+      "There is a strong drive to begin and give direction.",
+      "Use decisiveness to take one clear first step.",
+      "Avoid carrying everything alone or rushing the outcome."
+    ],
+    "2": [
+      "İlişki sezgisi ve uyum",
+      "İnsanlar arasındaki tonu fark etme ve ortak zemin kurma eğilimi öne çıkar.",
+      "Hassasiyetini net sınırlarla birleştir.",
+      "Kararsızlığı uyum sanma; kendi ihtiyacını görünmez kılma.",
+      "Relational awareness and harmony",
+      "A tendency to notice interpersonal tone and create common ground stands out.",
+      "Pair sensitivity with clear boundaries.",
+      "Do not mistake indecision for harmony or make your needs invisible."
+    ],
+    "3": [
+      "İfade ve yaratıcı hareket",
+      "Fikirleri görünür, anlatılır ve canlı hâle getirme yönü belirgindir.",
+      "Üretimini tek bir güçlü anlatıda topla.",
+      "Çok başlangıç yapıp odağı dağıtma.",
+      "Expression and creative motion",
+      "There is a clear tendency to make ideas visible, vivid, and easy to communicate.",
+      "Gather your output into one strong narrative.",
+      "Avoid scattering focus across too many beginnings."
+    ],
+    "4": [
+      "Yapı kurma ve süreklilik",
+      "Düzen, yöntem ve tamamlanabilir adımlar üzerinden güven yaratma eğilimi vardır.",
+      "Büyük hedefi ölçülebilir parçalara böl.",
+      "Planı korurken değişen şartlara kapanma.",
+      "Structure and continuity",
+      "There is a tendency to create reliability through order, method, and finishable steps.",
+      "Break a large goal into measurable pieces.",
+      "Protect the plan without closing yourself to changing conditions."
+    ],
+    "5": [
+      "Uyumlanma ve keşif",
+      "Değişen koşullarda yeni yol bulma ve hareket alanı açma dürtüsü canlıdır.",
+      "Merakını kontrollü denemelere çevir.",
+      "Heyecan uğruna sürekliliği ve ayrıntıyı bırakma.",
+      "Adaptation and exploration",
+      "The drive to find new routes and create room to move is lively under changing conditions.",
+      "Turn curiosity into controlled experiments.",
+      "Do not sacrifice continuity and detail for excitement."
+    ],
+    "6": [
+      "Sorumluluk ve koruyuculuk",
+      "İnsanlara, ilişkilere ve yapılan işin niteliğine sahip çıkma eğilimi baskındır.",
+      "Destek olurken sorumluluğu paylaş.",
+      "Herkesin yükünü üstlenip kendi sınırını tüketme.",
+      "Responsibility and care",
+      "A tendency to protect people, relationships, and the quality of the work is prominent.",
+      "Share responsibility while offering support.",
+      "Avoid carrying everyone's load until your own boundaries are exhausted."
+    ],
+    "7": [
+      "Derinlik ve çözümleme",
+      "Yüzeyde kalmayan, ayrıntıyı araştıran ve anlamı içeriden kuran bir yön öne çıkar.",
+      "Derin düşünceyi somut bir karara bağla.",
+      "Aşırı çözümleme yüzünden hareketi geciktirme.",
+      "Depth and analysis",
+      "A side that researches detail, avoids the superficial, and builds meaning from within stands out.",
+      "Connect deep thought to a concrete decision.",
+      "Do not delay action through excessive analysis."
+    ],
+    "8": [
+      "Yönetim ve sonuç odağı",
+      "Kaynakları düzenleme, sorumluluk alma ve görünür sonuç üretme dürtüsü güçlüdür.",
+      "Gücünü öncelik ve ölçü kurmak için kullan.",
+      "Kontrol ihtiyacının esnekliği ve ilişki tonunu bastırmasına izin verme.",
+      "Stewardship and results",
+      "There is a strong drive to organize resources, take responsibility, and produce visible outcomes.",
+      "Use authority to set priorities and measures.",
+      "Do not let the need for control suppress flexibility or relational tone."
+    ],
+    "9": [
+      "Geniş bakış ve etki",
+      "Tek bir ayrıntının ötesini görme, insanları ve amaçları daha büyük bir çerçevede birleştirme eğilimi vardır.",
+      "Etki alanını seç; enerjini en anlamlı yere yönelt.",
+      "Her şeye yetişmeye çalışıp odağı tüketme.",
+      "Perspective and impact",
+      "There is a tendency to see beyond one detail and connect people and purposes within a larger frame.",
+      "Choose your sphere of impact and direct energy where it matters most.",
+      "Avoid exhausting focus by trying to carry everything."
+    ],
+    "11": [
+      "Sezgi ve öncülük",
+      "Güçlü fikirleri erken fark etme ve başkalarına yön verecek bir çerçeve kurma potansiyeli belirgindir.",
+      "Sezgiyi doğrulanabilir adımlar ve sakin bir ritimle destekle.",
+      "Yüksek beklenti ve aceleciliğin iç gerilimi büyütmesine izin verme.",
+      "Intuition and leadership",
+      "There is a clear potential to notice strong ideas early and frame a direction others can follow.",
+      "Support intuition with verifiable steps and a calm pace.",
+      "Do not let high expectations and urgency amplify inner pressure."
+    ]
+  },
+  "balance": {
+    "EXPANSIVE": [
+      "Genişleyen hareket alanı",
+      "Doğum ve isim ritmi birlikte okunduğunda deneme, bağlantı kurma ve fırsatı harekete çevirme alanı geniş görünüyor.",
+      "Hazırladığın işi görünür bir adıma dönüştür.",
+      "Olumlu akışı plansız risk alma gerekçesi yapma.",
+      "Expanding room to move",
+      "Read together, the birth and name rhythms suggest broader room for experimenting, connecting, and turning opportunity into action.",
+      "Turn prepared work into a visible step.",
+      "Do not use positive momentum as a reason for unplanned risk."
+    ],
+    "ALIGNED": [
+      "Tutarlı iç ritim",
+      "İsimle gelen yön ve doğum ritmi birbirini destekliyor; ilerleme tekrar edilebilir alışkanlıklardan güç alabilir.",
+      "İşe yarayan düzeni koru ve ölç.",
+      "Aynı yönteme gereğinden uzun süre bağlı kalma.",
+      "Consistent inner rhythm",
+      "The name direction and birth rhythm support each other; progress can gain strength from repeatable habits.",
+      "Protect and measure the routine that works.",
+      "Do not stay attached to one method beyond its usefulness."
+    ],
+    "AMPLIFIED": [
+      "Yüksek hassasiyetli ritim",
+      "Doğum ritmi güçlü bir algı ve hız katıyor; doğru odakta sezgi etkili olabilir, dağınık kaldığında iç baskı artabilir.",
+      "Sezgiyi küçük doğrulamalarla ilerlet.",
+      "Her güçlü hissi acil karar sanma.",
+      "High-sensitivity rhythm",
+      "The birth rhythm adds strong perception and pace; intuition can help when focused, while inner pressure can rise when scattered.",
+      "Advance intuition through small validations.",
+      "Do not treat every strong feeling as an urgent decision."
+    ],
+    "DELIBERATE": [
+      "Hazırlıkla açılan güç",
+      "İsim yönü güçlü olsa da doğum ritmi sonucu sabır, hazırlık ve doğru zamanlama üzerinden destekliyor.",
+      "Karar öncesi koşulları ve kaynakları tamamla.",
+      "Gecikmeyi yetersizlik diye yorumlayıp acele etme.",
+      "Strength unlocked by preparation",
+      "The name direction may be strong, while the birth rhythm supports results through patience, preparation, and timing.",
+      "Complete the conditions and resources before deciding.",
+      "Do not read delay as inadequacy and rush the process."
+    ]
+  },
+  "labels": {
+    "HIGH_STANDARDS": [
+      "yüksek standart",
+      "high standards"
+    ],
+    "DIRECTION": [
+      "yön verme",
+      "direction"
+    ],
+    "SECURITY": [
+      "sağlam zemin arama",
+      "seeking solid ground"
+    ],
+    "EMOTIONAL_DEPTH": [
+      "duygusal derinlik",
+      "emotional depth"
+    ],
+    "QUICK_MIND": [
+      "hızlı kavrayış",
+      "quick understanding"
+    ],
+    "DELIBERATION": [
+      "kararı tartma",
+      "deliberation"
+    ],
+    "LOGIC": [
+      "mantıksal denge",
+      "logical balance"
+    ],
+    "PATIENCE": [
+      "sabır",
+      "patience"
+    ],
+    "MANAGEMENT": [
+      "yönetim",
+      "management"
+    ],
+    "COMMITMENT": [
+      "bağlılık",
+      "commitment"
+    ],
+    "DETAIL": [
+      "ayrıntı hassasiyeti",
+      "attention to detail"
+    ],
+    "PERSISTENCE": [
+      "kararlılık",
+      "persistence"
+    ],
+    "COMPASSION": [
+      "şefkat",
+      "compassion"
+    ],
+    "QUICK_ACTION": [
+      "hızlı hareket",
+      "quick action"
+    ],
+    "AMBITION": [
+      "hedef hırsı",
+      "ambition"
+    ],
+    "JOY": [
+      "neşeli enerji",
+      "joyful energy"
+    ],
+    "PRACTICALITY": [
+      "pratik çözüm",
+      "practical solutions"
+    ],
+    "COMFORT": [
+      "rahatlık ihtiyacı",
+      "need for ease"
+    ],
+    "SERIOUSNESS": [
+      "ciddiyet",
+      "seriousness"
+    ],
+    "INTEGRITY": [
+      "dürüstlük",
+      "integrity"
+    ],
+    "INDUSTRY": [
+      "çalışma disiplini",
+      "work discipline"
+    ],
+    "LEADERSHIP": [
+      "liderlik",
+      "leadership"
+    ],
+    "RESILIENCE": [
+      "dayanıklılık",
+      "resilience"
+    ],
+    "AFFECTION": [
+      "sevecenlik",
+      "affection"
+    ],
+    "PRIDE": [
+      "özsaygı",
+      "self-respect"
+    ],
+    "MERCY": [
+      "merhamet",
+      "mercy"
+    ],
+    "SOCIABILITY": [
+      "dışa dönük iletişim",
+      "outward communication"
+    ],
+    "DIGNITY": [
+      "ağırbaşlılık",
+      "dignity"
+    ],
+    "SENSITIVITY": [
+      "hassasiyet",
+      "sensitivity"
+    ],
+    "SINCERITY": [
+      "samimiyet",
+      "sincerity"
+    ],
+    "FREEDOM": [
+      "özgürlük ihtiyacı",
+      "need for freedom"
+    ],
+    "OPENNESS": [
+      "açık yüreklilik",
+      "openness"
+    ],
+    "ELEGANCE": [
+      "zarafet",
+      "elegance"
+    ],
+    "PROJECT_MIND": [
+      "proje üretme",
+      "project thinking"
+    ],
+    "CURIOSITY": [
+      "merak",
+      "curiosity"
+    ],
+    "BALANCE": [
+      "denge",
+      "balance"
+    ],
+    "ENERGY": [
+      "hareket enerjisi",
+      "active energy"
+    ],
+    "RESEARCH": [
+      "araştırma",
+      "research"
+    ],
+    "ENTERPRISE": [
+      "girişim",
+      "enterprise"
+    ],
+    "CREATIVITY": [
+      "yaratıcılık",
+      "creativity"
+    ],
+    "FAIRNESS": [
+      "adalet duygusu",
+      "sense of fairness"
+    ],
+    "ORDER": [
+      "düzen",
+      "order"
+    ],
+    "SELF_REFLECTION": [
+      "kendini sorgulama",
+      "self-reflection"
+    ],
+    "PROTECTION": [
+      "koruyuculuk",
+      "protectiveness"
+    ],
+    "INTUITION": [
+      "önsezi",
+      "intuition"
+    ],
+    "SOLUTION": [
+      "çözümleme",
+      "analysis"
+    ],
+    "ENTHUSIASM": [
+      "coşku",
+      "enthusiasm"
+    ],
+    "TRUST": [
+      "güvenilirlik",
+      "reliability"
+    ],
+    "TEACHING": [
+      "öğretici yön",
+      "teaching instinct"
+    ],
+    "PLANNING": [
+      "planlama",
+      "planning"
+    ],
+    "IDEALISM": [
+      "idealizm",
+      "idealism"
+    ],
+    "INNOVATION": [
+      "yenilik arayışı",
+      "innovation"
+    ]
+  },
+  "months": {
+    "1": {
+      "1": [
+        "HIGH_STANDARDS",
+        "DIRECTION",
+        "SECURITY"
+      ],
+      "2": [
+        "EMOTIONAL_DEPTH",
+        "QUICK_MIND",
+        "DELIBERATION"
+      ],
+      "3": [
+        "EMOTIONAL_DEPTH",
+        "LOGIC",
+        "PATIENCE"
+      ],
+      "4": [
+        "MANAGEMENT",
+        "COMMITMENT",
+        "DETAIL"
+      ],
+      "5": [
+        "PERSISTENCE",
+        "EMOTIONAL_DEPTH",
+        "COMPASSION"
+      ],
+      "6": [
+        "LOGIC",
+        "EMOTIONAL_DEPTH",
+        "QUICK_ACTION"
+      ],
+      "7": [
+        "QUICK_MIND",
+        "EMOTIONAL_DEPTH",
+        "AMBITION"
+      ],
+      "8": [
+        "JOY",
+        "EMOTIONAL_DEPTH",
+        "PRACTICALITY"
+      ],
+      "9": [
+        "JOY",
+        "QUICK_MIND",
+        "COMFORT"
+      ],
+      "10": [
+        "SERIOUSNESS",
+        "INTEGRITY",
+        "INDUSTRY"
+      ],
+      "11": [
+        "INDUSTRY",
+        "LEADERSHIP",
+        "RESILIENCE"
+      ],
+      "12": [
+        "JOY",
+        "AFFECTION",
+        "PRIDE"
+      ]
+    },
+    "3": {
+      "1": [
+        "SERIOUSNESS",
+        "DIRECTION",
+        "DIGNITY"
+      ],
+      "2": [
+        "LEADERSHIP",
+        "QUICK_MIND",
+        "MERCY"
+      ],
+      "3": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "SOCIABILITY"
+      ],
+      "4": [
+        "SERIOUSNESS",
+        "DIGNITY",
+        "INDUSTRY"
+      ],
+      "5": [
+        "QUICK_MIND",
+        "EMOTIONAL_DEPTH",
+        "DIGNITY"
+      ],
+      "6": [
+        "SINCERITY",
+        "SENSITIVITY",
+        "EMOTIONAL_DEPTH"
+      ],
+      "7": [
+        "QUICK_MIND",
+        "AMBITION",
+        "FREEDOM"
+      ],
+      "8": [
+        "JOY",
+        "OPENNESS",
+        "EMOTIONAL_DEPTH"
+      ],
+      "9": [
+        "JOY",
+        "QUICK_MIND",
+        "ELEGANCE"
+      ],
+      "10": [
+        "PERSISTENCE",
+        "PROJECT_MIND",
+        "QUICK_MIND"
+      ],
+      "11": [
+        "CURIOSITY",
+        "ENTERPRISE",
+        "SERIOUSNESS"
+      ],
+      "12": [
+        "SENSITIVITY",
+        "PERSISTENCE",
+        "HIGH_STANDARDS"
+      ]
+    },
+    "4": {
+      "1": [
+        "SERIOUSNESS",
+        "DIRECTION",
+        "RESILIENCE"
+      ],
+      "2": [
+        "QUICK_MIND",
+        "EMOTIONAL_DEPTH",
+        "INDUSTRY"
+      ],
+      "3": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "EMOTIONAL_DEPTH"
+      ],
+      "4": [
+        "INDUSTRY",
+        "SERIOUSNESS",
+        "DETAIL"
+      ],
+      "5": [
+        "CURIOSITY",
+        "QUICK_MIND",
+        "INTEGRITY"
+      ],
+      "6": [
+        "EMOTIONAL_DEPTH",
+        "QUICK_MIND",
+        "CURIOSITY"
+      ],
+      "7": [
+        "AMBITION",
+        "QUICK_MIND",
+        "ELEGANCE"
+      ],
+      "8": [
+        "EMOTIONAL_DEPTH",
+        "INDUSTRY",
+        "SOCIABILITY"
+      ],
+      "9": [
+        "COMPASSION",
+        "QUICK_MIND",
+        "JOY"
+      ],
+      "10": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "BALANCE"
+      ],
+      "11": [
+        "DIRECTION",
+        "INDUSTRY",
+        "LOGIC"
+      ],
+      "12": [
+        "PERSISTENCE",
+        "BALANCE",
+        "JOY"
+      ]
+    },
+    "5": {
+      "1": [
+        "QUICK_MIND",
+        "CURIOSITY",
+        "FREEDOM"
+      ],
+      "2": [
+        "RESEARCH",
+        "LOGIC",
+        "EMOTIONAL_DEPTH"
+      ],
+      "3": [
+        "QUICK_MIND",
+        "CURIOSITY",
+        "INDUSTRY"
+      ],
+      "4": [
+        "MANAGEMENT",
+        "DIRECTION",
+        "PERSISTENCE"
+      ],
+      "5": [
+        "INDUSTRY",
+        "QUICK_MIND",
+        "SERIOUSNESS"
+      ],
+      "6": [
+        "QUICK_MIND",
+        "CURIOSITY",
+        "SENSITIVITY"
+      ],
+      "7": [
+        "QUICK_MIND",
+        "EMOTIONAL_DEPTH",
+        "QUICK_ACTION"
+      ],
+      "8": [
+        "PRACTICALITY",
+        "ENTERPRISE",
+        "CURIOSITY"
+      ],
+      "9": [
+        "JOY",
+        "QUICK_MIND",
+        "COMPASSION"
+      ],
+      "10": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "PERSISTENCE"
+      ],
+      "11": [
+        "SERIOUSNESS",
+        "DETAIL",
+        "PERSISTENCE"
+      ],
+      "12": [
+        "QUICK_MIND",
+        "ENERGY",
+        "EMOTIONAL_DEPTH"
+      ]
+    },
+    "6": {
+      "1": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "ENTERPRISE"
+      ],
+      "2": [
+        "QUICK_MIND",
+        "ENERGY",
+        "INNOVATION"
+      ],
+      "3": [
+        "EMOTIONAL_DEPTH",
+        "QUICK_MIND",
+        "IDEALISM"
+      ],
+      "4": [
+        "QUICK_MIND",
+        "INDUSTRY",
+        "INTEGRITY"
+      ],
+      "5": [
+        "QUICK_MIND",
+        "CURIOSITY",
+        "IDEALISM"
+      ],
+      "6": [
+        "LEADERSHIP",
+        "QUICK_MIND",
+        "ENTERPRISE"
+      ],
+      "7": [
+        "COMMITMENT",
+        "JOY",
+        "QUICK_MIND"
+      ],
+      "8": [
+        "FAIRNESS",
+        "QUICK_MIND",
+        "INDUSTRY"
+      ],
+      "9": [
+        "OPENNESS",
+        "QUICK_MIND",
+        "INDUSTRY"
+      ],
+      "10": [
+        "ORDER",
+        "PERSISTENCE",
+        "QUICK_MIND"
+      ],
+      "11": [
+        "HIGH_STANDARDS",
+        "SERIOUSNESS",
+        "INDUSTRY"
+      ],
+      "12": [
+        "QUICK_MIND",
+        "SELF_REFLECTION",
+        "INTEGRITY"
+      ]
+    },
+    "7": {
+      "1": [
+        "LEADERSHIP",
+        "DELIBERATION",
+        "PROTECTION"
+      ],
+      "2": [
+        "QUICK_MIND",
+        "SENSITIVITY",
+        "ELEGANCE"
+      ],
+      "3": [
+        "EMOTIONAL_DEPTH",
+        "QUICK_MIND",
+        "INTUITION"
+      ],
+      "4": [
+        "CURIOSITY",
+        "QUICK_MIND",
+        "ENTERPRISE"
+      ],
+      "5": [
+        "SENSITIVITY",
+        "SOLUTION",
+        "QUICK_ACTION"
+      ],
+      "6": [
+        "JOY",
+        "CURIOSITY",
+        "CREATIVITY"
+      ],
+      "7": [
+        "ENTHUSIASM",
+        "ELEGANCE",
+        "PRIDE"
+      ],
+      "8": [
+        "QUICK_MIND",
+        "LEADERSHIP",
+        "TRUST"
+      ],
+      "9": [
+        "INTUITION",
+        "JOY",
+        "QUICK_ACTION"
+      ],
+      "10": [
+        "QUICK_MIND",
+        "PERSISTENCE",
+        "INDUSTRY"
+      ],
+      "11": [
+        "DIRECTION",
+        "PATIENCE",
+        "PERSISTENCE"
+      ],
+      "12": [
+        "ENTHUSIASM",
+        "PLANNING",
+        "TEACHING"
+      ]
+    },
+    "8": {
+      "1": [
+        "LEADERSHIP",
+        "INDUSTRY",
+        "PRACTICALITY"
+      ],
+      "2": [
+        "EMOTIONAL_DEPTH",
+        "JOY",
+        "QUICK_MIND"
+      ],
+      "3": [
+        "OPENNESS",
+        "QUICK_MIND",
+        "INDUSTRY"
+      ],
+      "4": [
+        "SERIOUSNESS",
+        "DIGNITY",
+        "QUICK_MIND"
+      ],
+      "5": [
+        "LEADERSHIP",
+        "QUICK_MIND",
+        "EMOTIONAL_DEPTH"
+      ],
+      "6": [
+        "INDUSTRY",
+        "JOY",
+        "EMOTIONAL_DEPTH"
+      ],
+      "7": [
+        "LEADERSHIP",
+        "EMOTIONAL_DEPTH",
+        "QUICK_MIND"
+      ],
+      "8": [
+        "QUICK_MIND",
+        "AMBITION",
+        "EMOTIONAL_DEPTH"
+      ],
+      "9": [
+        "QUICK_MIND",
+        "ENTERPRISE",
+        "EMOTIONAL_DEPTH"
+      ],
+      "10": [
+        "ENTERPRISE",
+        "MANAGEMENT",
+        "QUICK_MIND"
+      ],
+      "11": [
+        "SERIOUSNESS",
+        "INDUSTRY",
+        "QUICK_MIND"
+      ],
+      "12": [
+        "CURIOSITY",
+        "RESEARCH",
+        "QUICK_MIND"
+      ]
+    }
+  },
+  "special": {
+    "2": [
+      "İsim analizinde düzen, güvenilirlik, bağlılık ve başkalarına alan açma güçlüdür; çekingenlik ve kararı erteleme görünürlüğü azaltabilir.",
+      "The name analysis emphasizes order, reliability, loyalty, and making room for others, while reserve and delayed decisions may reduce visibility."
+    ],
+    "9": [
+      "İsim analizinde geniş hedefler, yönetim, güçlü sezgi ve insanlarla etkili bağ kurma öne çıkar; sabırsızlık odağı zorlayabilir.",
+      "The name analysis emphasizes broad goals, direction, strong intuition, and effective human connection, while impatience may strain focus."
+    ],
+    "11": [
+      "İsim analizinde belirgin liderlik, hızlı uyum ve büyük hedefe yönelme güçlüdür; heyecanla acele karar vermemek denge sağlar.",
+      "The name analysis emphasizes visible leadership, quick adaptation, and movement toward large goals, while avoiding excitement-led decisions supports balance."
+    ]
+  },
+  "luck": [
+    [
+      "Şans çoğu zaman güçlü sezgi, doğru bağlantıyı erken fark etme ve hazırlanan bir fırsatın zamanını hissetme üzerinden çalışır. Dağınık kalındığında aynı hassasiyet iç baskıyı büyütebilir.",
+      "Luck tends to work through strong intuition, noticing the right connection early, and sensing the timing of a prepared opportunity. When focus scatters, the same sensitivity may increase inner pressure."
+    ],
+    [
+      "Fırsatları görünür sonuca çevirme potansiyeli güçlüdür. En iyi sonuç, cesaretin plan ve sorumlulukla birlikte kullanıldığı zamanlarda ortaya çıkar.",
+      "There is strong potential to turn opportunities into visible results. The best outcome appears when courage is paired with planning and responsibility."
+    ],
+    [
+      "Şans hareket, bağlantı kurma ve değişen şartlara uyum sağlama üzerinden açılır. Hazırlık tamamlandığında fırsatı değerlendirme alanı genişler.",
+      "Luck opens through movement, connection, and adapting to changing conditions. Once preparation is complete, the room to use an opportunity expands."
+    ],
+    [
+      "Destekleyici fırsatlar ölçülü ilerler; doğru zamanlama ve devamlılık, tek seferlik cesaretten daha belirleyicidir.",
+      "Supportive opportunities unfold at a measured pace; timing and continuity matter more than a single burst of courage."
+    ],
+    [
+      "Şans kendiliğinden açılan kapılardan çok hazırlık, sabır ve doğru koşulları kurma üzerinden güçlenir. Acele yerine sağlam zemin sonuçları destekler.",
+      "Luck grows less through doors opening by themselves and more through preparation, patience, and creating the right conditions. Solid ground supports results better than haste."
+    ]
+  ]
+}

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PalmMap Hesap Silme | Delete Account</title>
+  <style>
+    :root{color-scheme:dark;--bg:#002f2d;--panel:#073f3b;--gold:#f3d39a;--text:#f8f3e8;--muted:#c4d4cf;--line:#41726b;--danger:#ff8e86}
+    *{box-sizing:border-box}body{margin:0;min-height:100vh;background:linear-gradient(160deg,#002523,#00413d);color:var(--text);font:16px/1.6 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:760px;margin:auto;padding:40px 20px 70px}.brand{font:700 34px Georgia,serif;color:var(--gold)}h1{font:700 38px/1.15 Georgia,serif;margin:12px 0 16px}.card{background:rgba(7,63,59,.9);border:1px solid var(--line);border-radius:22px;padding:24px;margin:18px 0}h2{font-size:20px;color:var(--gold)}a{color:var(--gold)}button{width:100%;border:0;border-radius:999px;padding:15px 20px;font-size:16px;font-weight:750;cursor:pointer;background:var(--gold);color:#063a36;margin-top:12px}button.danger{background:var(--danger);color:#28100e}button:disabled{opacity:.5;cursor:not-allowed}.check{display:flex;gap:10px;align-items:flex-start;margin:22px 0}.check input{margin-top:6px}.status{min-height:26px;margin-top:16px;color:var(--muted)}.status.error{color:var(--danger)}.en{border-top:1px solid var(--line);margin-top:28px;padding-top:20px;color:var(--muted);font-size:14px}.hidden{display:none}
+  </style>
+</head>
+<body><main>
+  <div class="brand">✦ PalmMap</div>
+  <h1>Hesabını ve verilerini sil</h1>
+  <div class="card">
+    <h2>Silinecekler</h2>
+    <ul><li>Google ile oluşturulan PalmMap hesabın</li><li>Bulutta kayıtlı raporların ve yapılandırılmış okuma verilerin</li><li>Sunucudaki rapor kredilerin ve erişim kaydın</li></ul>
+    <p>Cihazındaki fotoğrafları ayrıca uygulama içinden silebilir veya uygulamayı kaldırabilirsin. Sınırlı ve kimlikten arındırılmış satın alma kayıtları, satın almanın tekrar kullanılmasını önlemek ya da hukuki yükümlülükler için tutulabilir.</p>
+    <p><strong>Hesap silme Google Play aboneliğini otomatik iptal etmez.</strong> Etkin aboneliğin varsa önce <a href="https://play.google.com/store/account/subscriptions">Google Play aboneliklerinden yönet veya iptal et</a>. Silme işlemi satın alma iadesi oluşturmaz.</p>
+    <label class="check"><input id="confirm" type="checkbox"><span>Bu işlemin kalıcı olduğunu ve raporlarımın geri getirilemeyeceğini anlıyorum.</span></label>
+    <button id="signin">1. Google hesabımla doğrula</button>
+    <button id="delete" class="danger" disabled>2. PalmMap hesabımı kalıcı olarak sil</button>
+    <div id="status" class="status" aria-live="polite"></div>
+  </div>
+  <p><a href="/privacy">Gizlilik politikasını görüntüle</a></p>
+  {% if support_email %}<p>Yardım: <a href="mailto:{{ support_email }}">{{ support_email }}</a></p>{% endif %}
+  <div class="en"><strong>English:</strong> Sign in with the same Google account used in PalmMap, tick the confirmation box, then permanently delete the account. Cloud reports, structured reading data and entitlements will be removed. Deleting the account does not automatically cancel a Google Play subscription; manage it in Google Play first.</div>
+
+  <script type="module">
+    import {initializeApp} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-app.js";
+    import {getAuth, GoogleAuthProvider, signInWithPopup, signOut} from "https://www.gstatic.com/firebasejs/11.10.0/firebase-auth.js";
+    const app=initializeApp({
+      apiKey:{{ firebase_web_api_key | tojson }},
+      authDomain:"seraphic-camp-507506-m2.firebaseapp.com",
+      projectId:"seraphic-camp-507506-m2"
+    });
+    const auth=getAuth(app), provider=new GoogleAuthProvider();
+    const signin=document.getElementById("signin"), del=document.getElementById("delete"), confirm=document.getElementById("confirm"), status=document.getElementById("status");
+    let user=null;
+    const message=(text,error=false)=>{status.textContent=text;status.className="status"+(error?" error":"");};
+    const refresh=()=>{del.disabled=!(user&&confirm.checked);};
+    confirm.addEventListener("change",refresh);
+    signin.addEventListener("click",async()=>{
+      try{message("Google hesabı doğrulanıyor…");const result=await signInWithPopup(auth,provider);user=result.user;signin.textContent="Doğrulandı: "+(user.email||"Google hesabı");signin.disabled=true;message("Hesap doğrulandı. Onay kutusunu işaretleyip silme düğmesine basabilirsin.");refresh();}
+      catch(e){message("Google hesabı doğrulanamadı. Açılır pencereye izin verip tekrar dene.",true);}
+    });
+    del.addEventListener("click",async()=>{
+      if(!user||!confirm.checked)return;
+      del.disabled=true;signin.disabled=true;message("Hesap ve veriler siliniyor…");
+      try{
+        const token=await user.getIdToken(true);
+        const response=await fetch("/v1/account",{method:"DELETE",headers:{Authorization:"Bearer "+token,Accept:"application/json"}});
+        if(!response.ok)throw new Error("delete_failed");
+        try{await signOut(auth);}catch(_e){}
+        document.querySelector(".card").innerHTML="<h2>Hesabın silindi</h2><p>PalmMap hesabın ve ilişkili verilerin kalıcı olarak kaldırıldı. Etkin bir Google Play aboneliğin varsa onu Google Play abonelikler sayfasından ayrıca yönetmeyi unutma.</p>";
+      }catch(e){signin.disabled=false;message("Silme işlemi tamamlanamadı. İnternet bağlantını kontrol edip tekrar dene veya uygulamadaki Ayarlar bölümünü kullan.",true);refresh();}
+    });
+  </script>
+</main></body></html>

@@ -1,0 +1,818 @@
+{
+  "cues": [
+    {
+      "code": "steady",
+      "domain": "CLOSENESS",
+      "family": "heart_continuity",
+      "ids": [
+        "HEART_001"
+      ],
+      "text": [
+        "duyguyu günlük davranışta tutarlı biçimde gösterme",
+        "showing affection consistently through everyday actions"
+      ]
+    },
+    {
+      "code": "devoted",
+      "domain": "CLOSENESS",
+      "family": "heart_length",
+      "ids": [
+        "HEART_002"
+      ],
+      "text": [
+        "bağa uzun süreli ve içten yatırım yapma",
+        "investing sincerely in a lasting bond"
+      ]
+    },
+    {
+      "code": "intense",
+      "domain": "CLOSENESS",
+      "family": "heart_depth",
+      "ids": [
+        "HEART_005"
+      ],
+      "text": [
+        "yakınlığı yoğun yaşama ve ilişkiye sahip çıkma",
+        "feeling closeness intensely and investing in the relationship"
+      ]
+    },
+    {
+      "code": "sensitive",
+      "domain": "CLOSENESS",
+      "family": "heart_depth",
+      "ids": [
+        "HEART_006"
+      ],
+      "text": [
+        "duygusal incelik ve küçük tavır değişimlerine duyarlılık",
+        "emotional sensitivity and noticing small changes in tone"
+      ]
+    },
+    {
+      "code": "empathic",
+      "domain": "CLOSENESS",
+      "family": "heart_position",
+      "ids": [
+        "HEART_008"
+      ],
+      "text": [
+        "şefkati sağduyu ve anlayışla birleştirme",
+        "combining compassion with thoughtful understanding"
+      ]
+    },
+    {
+      "code": "ideal",
+      "domain": "EXPECTATIONS",
+      "family": "heart_expectation",
+      "ids": [
+        "HEART_003",
+        "HEART_009"
+      ],
+      "text": [
+        "sevgide ortak değer, saygı ve yüksek beklenti arama",
+        "looking for shared values, respect and high standards in love"
+      ]
+    },
+    {
+      "code": "practical_love",
+      "domain": "EXPECTATIONS",
+      "family": "heart_expectation",
+      "ids": [
+        "HEART_004",
+        "HEART_011"
+      ],
+      "text": [
+        "sevgiyi somut davranış, yakınlık ve kişisel güvenle değerlendirme",
+        "recognizing love through concrete actions, closeness and personal security"
+      ]
+    },
+    {
+      "code": "balanced_love",
+      "domain": "EXPECTATIONS",
+      "family": "heart_expectation",
+      "ids": [
+        "HEART_010",
+        "HEART_014"
+      ],
+      "text": [
+        "yakınlığı gerçekçi değerlendirmeyle birlikte yaşama",
+        "experiencing closeness alongside a realistic perspective"
+      ]
+    },
+    {
+      "code": "expressive_love",
+      "domain": "EXPECTATIONS",
+      "family": "heart_creativity",
+      "ids": [
+        "HEART_012"
+      ],
+      "text": [
+        "takdir ve ortak deneyimle duygusal bağ kurma",
+        "building affection through appreciation and shared experiences"
+      ]
+    },
+    {
+      "code": "analytical",
+      "domain": "DECISIONS",
+      "family": "head_length",
+      "ids": [
+        "HEAD_002",
+        "HEAD_003"
+      ],
+      "text": [
+        "bir konuyu ayrıntısıyla düşünüp kararı olgunlaştırma",
+        "thinking through details before settling on a decision"
+      ]
+    },
+    {
+      "code": "quick",
+      "domain": "DECISIONS",
+      "family": "head_length",
+      "ids": [
+        "HEAD_004"
+      ],
+      "text": [
+        "pratik sonuca hızlı yönelme",
+        "moving quickly toward a practical answer"
+      ]
+    },
+    {
+      "code": "concrete",
+      "domain": "DECISIONS",
+      "family": "head_direction",
+      "ids": [
+        "HEAD_012",
+        "HEAD_015"
+      ],
+      "text": [
+        "gerçek koşullara ve uygulanabilir sonuca öncelik verme",
+        "prioritizing real conditions and workable results"
+      ]
+    },
+    {
+      "code": "imaginative",
+      "domain": "DECISIONS",
+      "family": "head_direction",
+      "ids": [
+        "HEAD_013",
+        "HEAD_014"
+      ],
+      "text": [
+        "olasılıkları sezgi ve hayal gücüyle genişletme",
+        "expanding possibilities through intuition and imagination"
+      ]
+    },
+    {
+      "code": "versatile",
+      "domain": "DECISIONS",
+      "family": "head_end",
+      "ids": [
+        "HEAD_018",
+        "HEAD_019"
+      ],
+      "text": [
+        "aynı meseleye birden fazla açıdan bakma",
+        "seeing more than one side of an issue"
+      ]
+    },
+    {
+      "code": "focused",
+      "domain": "DECISIONS",
+      "family": "head_appearance",
+      "ids": [
+        "HEAD_005"
+      ],
+      "text": [
+        "bir fikre yoğunlaşma ve düşünceyi güçlü taşıma",
+        "concentrating deeply and holding a line of thought"
+      ]
+    },
+    {
+      "code": "verbal",
+      "domain": "COMMUNICATION",
+      "family": "little_length",
+      "ids": [
+        "LITTLE_001"
+      ],
+      "text": [
+        "düşünceyi sözle aktarma, ikna ve diplomasi",
+        "expressing ideas verbally with persuasion and diplomacy"
+      ]
+    },
+    {
+      "code": "reserved_words",
+      "domain": "COMMUNICATION",
+      "family": "little_length",
+      "ids": [
+        "LITTLE_002"
+      ],
+      "text": [
+        "uzun açıklama yerine doğrudan davranışla kendini gösterme",
+        "expressing oneself through direct actions rather than long explanations"
+      ]
+    },
+    {
+      "code": "precise_words",
+      "domain": "COMMUNICATION",
+      "family": "little_knots",
+      "ids": [
+        "LITTLE_007"
+      ],
+      "text": [
+        "söylenenin gerekçesini ve ayrıntısını sorgulama",
+        "examining the reasons and details behind what is said"
+      ]
+    },
+    {
+      "code": "explicit_needs",
+      "domain": "COMMUNICATION",
+      "family": "heart_speech",
+      "ids": [
+        "HEART_013"
+      ],
+      "text": [
+        "karşılıklı beklentileri açıkça konuşma ihtiyacı",
+        "a need to discuss mutual expectations explicitly"
+      ]
+    },
+    {
+      "code": "cautious",
+      "domain": "AUTONOMY",
+      "family": "head_life_start",
+      "ids": [
+        "HEAD_008",
+        "LIFE_011"
+      ],
+      "text": [
+        "önce güvenli zemini yoklayıp sonra bağımsızlaşma",
+        "checking for a secure footing before acting independently"
+      ]
+    },
+    {
+      "code": "security",
+      "domain": "AUTONOMY",
+      "family": "head_life_start",
+      "ids": [
+        "HEAD_009",
+        "LIFE_012"
+      ],
+      "text": [
+        "büyük adımlarda güvenli düzene ve yakın çevrenin desteğine yaslanma",
+        "relying on familiar structure and close support for major steps"
+      ]
+    },
+    {
+      "code": "independent",
+      "domain": "AUTONOMY",
+      "family": "head_life_start",
+      "ids": [
+        "HEAD_010",
+        "LIFE_013"
+      ],
+      "text": [
+        "kendi kararına güvenme ve kişisel inisiyatif kullanma",
+        "trusting one's own decisions and taking personal initiative"
+      ]
+    },
+    {
+      "code": "family_input",
+      "domain": "AUTONOMY",
+      "family": "head_origin",
+      "ids": [
+        "HEAD_011"
+      ],
+      "text": [
+        "yakın bağların ve aile görüşünün kararlarda ağırlık taşıması",
+        "giving close relationships and family opinions weight in decisions"
+      ]
+    },
+    {
+      "code": "initiative",
+      "domain": "RESPONSIBILITY",
+      "family": "thumb_first",
+      "ids": [
+        "THUMB_P1_001"
+      ],
+      "text": [
+        "başlatma, sorumluluk alma ve kararın arkasında durma",
+        "initiating action, accepting responsibility and standing by decisions"
+      ]
+    },
+    {
+      "code": "supported_start",
+      "domain": "RESPONSIBILITY",
+      "family": "thumb_first",
+      "ids": [
+        "THUMB_P1_011"
+      ],
+      "text": [
+        "kararın başında güven ve yapı desteğine daha fazla ihtiyaç duyma",
+        "needing more reassurance and structure at the start of a decision"
+      ]
+    },
+    {
+      "code": "measured",
+      "domain": "RESPONSIBILITY",
+      "family": "thumb_balance",
+      "ids": [
+        "THUMB_P1_005",
+        "THUMB_P2_007"
+      ],
+      "text": [
+        "isteği gerekçeyle dengeleyerek karar verme",
+        "balancing intention with reasoning before deciding"
+      ]
+    },
+    {
+      "code": "reasoned",
+      "domain": "RESPONSIBILITY",
+      "family": "thumb_second",
+      "ids": [
+        "THUMB_P2_002"
+      ],
+      "text": [
+        "sorumluluğun nedenini ve olası sonuçlarını tartma",
+        "weighing responsibilities and their possible consequences"
+      ]
+    },
+    {
+      "code": "reactive",
+      "domain": "RESPONSIBILITY",
+      "family": "thumb_second",
+      "ids": [
+        "THUMB_P2_003"
+      ],
+      "text": [
+        "duygusal tepkinin düşünme payının önüne geçebilmesi",
+        "emotional reactions sometimes moving ahead of reflection"
+      ]
+    },
+    {
+      "code": "enduring",
+      "domain": "PACE",
+      "family": "life_continuity",
+      "ids": [
+        "LIFE_001",
+        "LIFE_002"
+      ],
+      "text": [
+        "günlük yükleri istikrarlı taşıma ve yeniden toparlanma",
+        "carrying everyday demands steadily and regaining momentum"
+      ]
+    },
+    {
+      "code": "energetic",
+      "domain": "PACE",
+      "family": "life_energy",
+      "ids": [
+        "LIFE_004",
+        "LIFE_007"
+      ],
+      "text": [
+        "hareketi ve yüksek tempoyu geniş biçimde kullanma",
+        "expressing energy through action and an active pace"
+      ]
+    },
+    {
+      "code": "selective_energy",
+      "domain": "PACE",
+      "family": "life_energy",
+      "ids": [
+        "LIFE_005",
+        "LIFE_008"
+      ],
+      "text": [
+        "enerjiyi seçici kullanma ve kişisel alanı koruma",
+        "using energy selectively and protecting personal space"
+      ]
+    },
+    {
+      "code": "support_recovery",
+      "domain": "PACE",
+      "family": "life_support",
+      "ids": [
+        "LIFE_014"
+      ],
+      "text": [
+        "destek kaynaklarıyla zorlanma sonrasında yeniden denge kurma",
+        "regaining balance after strain with the help of support"
+      ]
+    },
+    {
+      "code": "persistent",
+      "domain": "DIRECTION",
+      "family": "fate_appearance",
+      "ids": [
+        "FATE_001",
+        "FATE_002"
+      ],
+      "text": [
+        "seçilen rotayı sürdürme ve sorumluluğu kolay bırakmama",
+        "staying with a chosen direction and carrying responsibilities"
+      ]
+    },
+    {
+      "code": "self_built",
+      "domain": "DIRECTION",
+      "family": "fate_origin",
+      "ids": [
+        "FATE_006"
+      ],
+      "text": [
+        "ilerlemeyi kendi emeği ve katkısıyla kurma",
+        "building progress through personal effort and contribution"
+      ]
+    },
+    {
+      "code": "close_support",
+      "domain": "DIRECTION",
+      "family": "fate_origin",
+      "ids": [
+        "FATE_007"
+      ],
+      "text": [
+        "yaşam yönünde aile ve yakın bağlardan destek alma",
+        "drawing on family and close relationships for support in life direction"
+      ]
+    },
+    {
+      "code": "social_path",
+      "domain": "DIRECTION",
+      "family": "fate_origin",
+      "ids": [
+        "FATE_008"
+      ],
+      "text": [
+        "insanlarla temas ve dış çevreden gelen fırsatlarla yol açma",
+        "opening opportunities through people and outside connections"
+      ]
+    },
+    {
+      "code": "disciplined",
+      "domain": "DIRECTION",
+      "family": "fate_destination",
+      "ids": [
+        "FATE_016"
+      ],
+      "text": [
+        "uzun vadeli emek, görev bilinci ve düzen kurma",
+        "building structure through long-term work and a sense of duty"
+      ]
+    },
+    {
+      "code": "ambitious",
+      "domain": "DIRECTION",
+      "family": "fate_destination",
+      "ids": [
+        "FATE_017"
+      ],
+      "text": [
+        "hedef büyütme ve kendi katkısıyla ilerleme isteği",
+        "aiming higher and advancing through one's own contribution"
+      ]
+    },
+    {
+      "code": "meaningful",
+      "domain": "DIRECTION",
+      "family": "fate_destination",
+      "ids": [
+        "FATE_018"
+      ],
+      "text": [
+        "üretimde anlam, tatmin ve içsel doyum arama",
+        "seeking meaning, satisfaction and fulfillment in one's work"
+      ]
+    },
+    {
+      "code": "expertise",
+      "domain": "DIRECTION",
+      "family": "fate_destination",
+      "ids": [
+        "FATE_019"
+      ],
+      "text": [
+        "bilgiyi ve uzmanlığı faydalı sonuca dönüştürme",
+        "turning knowledge and expertise into useful results"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "title": [
+        "Duygusal bağınız",
+        "Your emotional bond"
+      ],
+      "context": [
+        "Buradaki temel konu yalnız ne kadar sevdiğiniz değil, sevgiyi birbirinizin anlayabileceği biçimde yaşatmanız. Günlük küçük davranışların sürekliliği, güçlü bir duygunun karşı tarafa ulaşmasında belirleyici olabilir.",
+        "The central question is not simply how strongly you feel, but how affection reaches the other person. Consistent small actions can help translate strong feelings into an experience of being cared for."
+      ],
+      "opportunity": [
+        "Duygusal yatırımınızı görünür davranışlara dönüştürmek, ilişkinin yalnız yoğun anlarda değil sıradan günlerde de beslenmesine yardımcı olabilir. Birbirinizin hangi davranışla değerli hissettiğini öğrenmek bu ortaklığı somutlaştırır.",
+        "Making emotional investment visible in everyday actions can nourish the relationship beyond its most intense moments. Learning which gestures help each person feel valued makes that care tangible."
+      ],
+      "attention": [
+        "Kendi sevgi gösterme biçiminizin otomatik olarak anlaşılacağını varsaymayın. Hassas bir tepkiyi büyütmeden önce hangi davranışın ne anlama geldiğini konuşmak, niyet ile etki arasındaki farkı azaltabilir.",
+        "Do not assume your way of showing affection is automatically understood. Discussing what a gesture meant before escalating a sensitive reaction can reduce the gap between intention and impact."
+      ],
+      "practice": [
+        "Her biriniz, son günlerde sizi değerli hissettiren bir davranışı ve daha sık görmek istediğiniz bir davranışı söyleyin.",
+        "Each name one recent action that made you feel valued, and one you would like to experience more often."
+      ],
+      "code": "CLOSENESS",
+      "contrasts": []
+    },
+    {
+      "title": [
+        "Sevgiden bekledikleriniz",
+        "What you expect from love"
+      ],
+      "context": [
+        "Yakınlık, ortak değerler ve somut davranışlar aynı bağın farklı taraflarıdır. Beklentilerinizi açık hale getirmek, birinizin iyi niyetli çabasının diğeriniz tarafından eksik okunmasını önleyebilir.",
+        "Closeness, shared values and concrete actions are different aspects of the same bond. Making expectations explicit can keep one person's sincere effort from being overlooked by the other."
+      ],
+      "opportunity": [
+        "Sizin için iyi bir ilişkinin neye benzediğini gündelik örneklerle tarif etmek, benzer yanları kullanılabilir bir ortak zemine dönüştürür. Farklı beklentileri de karşılıklı öğrenme fırsatı olarak ele alabilirsiniz.",
+        "Describing a good relationship in everyday examples turns similarities into practical common ground. Different expectations can also become an opportunity to learn from each other."
+      ],
+      "attention": [
+        "Söylenmemiş bir standarda göre birbirinizi değerlendirmekten kaçının. Bir beklentinin sizin için önemli olması, diğer kişinin onu kendiliğinden bildiği anlamına gelmez.",
+        "Avoid evaluating each other against unspoken standards. The fact that an expectation matters to you does not mean the other person already knows it."
+      ],
+      "practice": [
+        "İlişkide vazgeçilmez gördüğünüz iki beklentiyi ve esneyebileceğiniz bir alanı birlikte belirleyin.",
+        "Together, identify two important relationship expectations and one area where you can be flexible."
+      ],
+      "code": "EXPECTATIONS",
+      "contrasts": [
+        {
+          "first": "ideal",
+          "second": "practical_love",
+          "reading": [
+            "Biriniz sevginin ortak değerlerle ve yüksek bir ilişki idealiyle örtüşmesine daha fazla anlam yüklerken, diğeriniz somut davranış ve kişisel güveni daha belirgin bir ölçü olarak kullanabilir. Bu farklılık sevgiyi az ya da çok yaşamak değil, onu farklı kanıtlardan tanımak şeklinde okunur.",
+            "One approach gives more weight to shared values and an ideal of the relationship; the other looks more closely at concrete actions and personal security. This is a difference in how affection is recognized, not proof that one person loves more."
+          ],
+          "opportunity": [
+            "İdeal taraf ilişkinin yönünü, somut taraf ise bu yönün günlük hayatta nasıl yaşanacağını besleyebilir. Beklentiyi davranışa çevirebildiğinizde iki yaklaşım birbirini tamamlayabilir.",
+            "Ideals can give the relationship direction, while concrete actions show how to live that direction. The approaches may complement each other when expectations become visible behavior."
+          ],
+          "attention": [
+            "Bir tarafın romantik beklentisini gereksiz, diğerinin somut güven arayışını duygusuzluk olarak etiketlemeyin. Aynı söze farklı anlam yüklediğinizde önce örnek isteyin.",
+            "Do not dismiss romantic expectations as unnecessary or practical reassurance as coldness. When the same words mean different things, ask for an example first."
+          ],
+          "practice": [
+            "‘Benim için sevgi, günlük hayatta şu davranışla görünür’ cümlesini ikiniz de tamamlayın.",
+            "Each complete the sentence: ‘In everyday life, I recognize love through this action.’"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "Birbirinizi duyma biçiminiz",
+        "How you hear each other"
+      ],
+      "context": [
+        "İfade etme biçimiyle anlaşılma ihtiyacı aynı şey değildir. Bir konuşmanın sonunda ikinizin de ne anladığına bakmak, yalnız kimin daha çok konuştuğuna odaklanmaktan daha yararlı olabilir.",
+        "How you express yourself and what helps you feel understood are not the same thing. Checking what each person understood can be more useful than focusing on who spoke the most."
+      ],
+      "opportunity": [
+        "Açıklık, gerekçe ve davranışın birbirini desteklemesi konuşmalarınızı daha anlaşılır kılabilir. Bir fikri savunurken karşı tarafın asıl ihtiyacını da duyabilmek, iletişimi ortak çözüm alanına taşır.",
+        "Clear words, reasons and actions can reinforce each other. Hearing the other person's underlying need while explaining your own view can make communication a shared problem-solving space."
+      ],
+      "attention": [
+        "İkna etmek ile anlaşmak arasındaki farkı koruyun. Ayrıntılar konuşmayı büyüttüğünde, tartışmanın merkezindeki tek ihtiyacı yeniden adlandırmak işe yarayabilir.",
+        "Keep persuasion separate from mutual understanding. When details make a discussion grow, it may help to name the one need at its center again."
+      ],
+      "practice": [
+        "Zor bir konuşmaya başlamadan önce ‘Şu an dinlenmek mi, birlikte çözüm bulmak mı istiyorum?’ sorusunu yanıtlayın.",
+        "Before a difficult conversation, say whether you want to be heard or want to work on a solution together."
+      ],
+      "code": "COMMUNICATION",
+      "contrasts": [
+        {
+          "first": "verbal",
+          "second": "reserved_words",
+          "reading": [
+            "Biriniz düşüncesini konuşarak açmaya daha yatkınken diğeriniz daha kısa anlatmayı ya da davranışla göstermeyi tercih edebilir. Bu karşılaşmada çok konuşmak baskı, az konuşmak da ilgisizlik olarak yanlış okunabilir.",
+            "One approach opens up through words, while the other may prefer brief explanations or actions. In this pairing, speaking more can be mistaken for pressure, and speaking less for disinterest."
+          ],
+          "opportunity": [
+            "Konuşarak netleştiren taraf konuyu görünür kılabilir; daha az söz kullanan taraf somut davranışla katkı sunabilir. İkisine de yer açan bir konuşma düzeni kurmak bu farkı kullanılabilir hale getirir.",
+            "Words can bring the issue into focus, while actions provide another form of contribution. A conversation structure that makes room for both can make this difference useful."
+          ],
+          "attention": [
+            "Sessizliği onay veya reddetme saymadan önce sorun. Daha konuşkan olmak, ortak kararda daha fazla söz hakkına sahip olmak anlamına gelmez.",
+            "Ask before treating silence as agreement or rejection. Being more talkative does not mean having more authority over a shared decision."
+          ],
+          "practice": [
+            "Bir konu için kısa ve eşit söz hakkı ayırın; ardından her biriniz diğerinin ana fikrini tek cümleyle geri söyleyin.",
+            "Give each person a short, equal turn, then restate the other's main point in one sentence."
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "Birlikte karar verme",
+        "Making decisions together"
+      ],
+      "context": [
+        "Ortak bir kararda fikir üretmek, seçenekleri tartmak ve bir seçimi uygulamak farklı aşamalardır. Hangi aşamada neye ihtiyaç duyduğunuzu ayırmak, düşünme farkının gereksiz bir çekişmeye dönüşmesini önleyebilir.",
+        "Generating ideas, weighing alternatives and acting are different stages of a shared decision. Distinguishing the needs of each stage can keep differences in thinking from becoming unnecessary friction."
+      ],
+      "opportunity": [
+        "Düşünme tarzlarınızı aynı hedefin farklı araçları olarak kullanabilirsiniz. Birinizin güçlü bulduğu yaklaşımın yanında diğerinin sorusuna da yer açmak, kararı tek kişinin ölçütünden çıkarır.",
+        "Your thinking styles can serve as different tools for the same goal. Making room for the other person's questions keeps a decision from depending on only one person's criteria."
+      ],
+      "attention": [
+        "Hızlı sonuca gitmekle iyi karar vermeyi, uzun düşünmekle de haklı olmayı eşitlemeyin. Geri dönüşü zor bir kararda ortak ölçütleri önceden belirlemek daha güvenli bir tartışma zemini sağlar.",
+        "Do not equate speed with decision quality, or lengthy thought with being right. For a hard-to-reverse choice, agreed criteria provide a clearer basis for discussion."
+      ],
+      "practice": [
+        "Ortak bir karar için önce seçenekleri, sonra ikinizin de önemsediği üç ölçütü yazın; eleme işlemini birlikte yapın.",
+        "List the options for a shared decision, then three criteria that matter to both of you, and narrow the options together."
+      ],
+      "code": "DECISIONS",
+      "contrasts": [
+        {
+          "first": "concrete",
+          "second": "imaginative",
+          "reading": [
+            "Biriniz uygulanabilirlik, hesap ve gerçek koşullardan hareket ederken diğeriniz olasılıkları ve sezgisel bağlantıları genişletmeye daha yatkın görünüyor. Aynı meseleye biri ‘nasıl işler?’, diğeri ‘başka ne mümkün?’ sorusuyla yaklaşabilir.",
+            "One approach starts from practicality and real conditions, while the other expands possibilities and intuitive connections. The same issue may be approached through ‘How would it work?’ and ‘What else is possible?’"
+          ],
+          "opportunity": [
+            "Hayal gücü seçenekleri çoğaltabilir, pratik değerlendirme de bir seçeneği uygulanabilir plana çevirebilir. Bu iki aşamayı sıraya koymak farkı ortak üretime dönüştürür.",
+            "Imagination can expand the options, and practical evaluation can turn one into a workable plan. Using the stages in sequence can turn difference into collaboration."
+          ],
+          "attention": [
+            "Bir fikri daha oluşurken hesapla kapatmak ya da gerçek koşulları yalnız hayal gücüyle aşılmış saymak iki tarafı da duyulmamış hissettirebilir.",
+            "Closing an idea down before it develops, or assuming imagination removes real constraints, can leave either person feeling unheard."
+          ],
+          "practice": [
+            "Önce eleştirmeden üç seçenek üretin; sonra bütçe, zaman ve uygulanabilirlik üzerinden birlikte değerlendirin.",
+            "Generate three options without criticism first, then assess time, budget and practicality together."
+          ]
+        },
+        {
+          "first": "analytical",
+          "second": "quick",
+          "reading": [
+            "Biriniz ayrıntıları tartarak kararını olgunlaştırmak isterken diğeriniz pratik sonuca daha hızlı ilerleyebilir. Buradaki fark zekâ veya yeterlilik değil, karar için ayrılan düşünme süresidir.",
+            "One approach wants time to examine details; the other moves toward a practical answer more quickly. This concerns thinking time, not intelligence or competence."
+          ],
+          "opportunity": [
+            "Hız küçük adımları başlatabilir; ayrıntılı değerlendirme geri dönüşü zor seçimlerde yarar sağlayabilir. Kararın önemine göre tempo belirlemek ikisini birlikte kullanmanıza yardımcı olur.",
+            "Speed can start small steps, while careful evaluation can help with hard-to-reverse choices. Matching the pace to the decision can make room for both."
+          ],
+          "attention": [
+            "Düşünme isteğini oyalama, hızlı karar isteğini düşüncesizlik diye adlandırmayın. Kararı ne zaman kapatacağınıza birlikte karar vermediğinizde bu fark gereksiz uzayabilir.",
+            "Avoid labeling reflection as stalling or speed as carelessness. Without an agreed decision point, this difference can unnecessarily prolong the process."
+          ],
+          "practice": [
+            "Önemli kararlar için ortak bir değerlendirme süresi ve karar tarihi belirleyin.",
+            "Agree on a reflection period and decision date for important choices."
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "Güven ve kişisel alan",
+        "Security and personal space"
+      ],
+      "context": [
+        "Bir ilişkiye yakın olmakla kendi kararının sahibi olmak birlikte var olabilir. Destek istemek, karar yetkisini bırakmak zorunda değildir; bağımsız davranmak da ortak hayatın etkilerini yok saymak anlamına gelmez.",
+        "Closeness and ownership of your decisions can coexist. Asking for support need not mean giving up agency; independence need not mean ignoring the impact on your shared life."
+      ],
+      "opportunity": [
+        "Hangi kararların bireysel, hangilerinin ortak olduğunu belirginleştirmek hem güveni hem hareket alanını koruyabilir. Yakın çevreden gelen görüşü ortak kararın yerine değil, girdilerinden biri olarak kullanabilirsiniz.",
+        "Clarifying which choices are individual and which are shared can protect both trust and freedom. Advice from others can be one input rather than a substitute for your own decision."
+      ],
+      "attention": [
+        "Onay beklemek ile haberdar etmek arasındaki farkı konuşun. Destek ihtiyacını zayıflık, kişisel alan isteğini uzaklaşma diye yorumlamak gereksiz gerilim oluşturabilir.",
+        "Discuss the difference between asking permission and keeping each other informed. Reading support needs as weakness or personal space as rejection can create avoidable tension."
+      ],
+      "practice": [
+        "Birlikte karar vereceğiniz iki konuyu ve birbirinize serbest alan bırakacağınız iki konuyu belirleyin.",
+        "Name two areas for shared decisions and two areas where each person keeps independent choice."
+      ],
+      "code": "AUTONOMY",
+      "contrasts": [
+        {
+          "first": "independent",
+          "second": "security",
+          "reading": [
+            "Biriniz kendi kararına güvenip daha bağımsız hareket etmeye yönelirken diğeriniz büyük adımlarda güvenli düzeni ve yakın desteği daha fazla önemseyebilir. Birlikte ilerlerken hız ile güvence ihtiyacını aynı masada tutmanız önem kazanır.",
+            "One approach moves more independently, while the other gives more weight to familiar structure and close support in major steps. Moving together may require room for both momentum and reassurance."
+          ],
+          "opportunity": [
+            "Bağımsızlık yeni adımı başlatabilir; güvence arayışı da eksik hazırlanmış tarafları görünür kılabilir. Kararı birlikte sahiplenmek için hedef kadar hazırlık düzeyinde de anlaşabilirsiniz.",
+            "Independence can start a new step, while the search for reassurance can reveal preparation still needed. Agreement on readiness can matter as much as agreement on the goal."
+          ],
+          "attention": [
+            "Birinizin güven talebini kontrol, diğerinizin inisiyatifini umursamazlık diye peşinen yorumlamayın. Ortak hayatı etkileyen kararları önceden haber vermek bu farkı hafifletebilir.",
+            "Do not automatically read reassurance as control or initiative as indifference. Discussing choices that affect both of you beforehand can ease this difference."
+          ],
+          "practice": [
+            "Yeni bir adım için ‘harekete geçmemi sağlayacak asgari güvence nedir?’ sorusunu birlikte yanıtlayın.",
+            "For a new step, discuss the minimum reassurance each person needs before moving ahead."
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "İnisiyatif ve sorumluluk paylaşımı",
+        "Initiative and shared responsibility"
+      ],
+      "context": [
+        "İlişkide bir işi başlatmak, gerekçesini tartmak ve sonuna kadar sürdürmek farklı katkılardır. Bu katkıları görünür kılmak, doğal olarak öne çıkan bir rolün zamanla tek taraflı yüke dönüşmesini önleyebilir.",
+        "Starting a task, considering its reasons and carrying it through are different contributions. Making them visible can keep a naturally emerging role from turning into a one-sided burden."
+      ],
+      "opportunity": [
+        "İstek ile muhakemeyi ortak bir plana bağlamak, yalnız kimin daha baskın olduğuna dayanan bir düzenin önüne geçebilir. Küçük ve açık sorumluluklar, iki kişinin katkısını da izlenebilir hale getirir.",
+        "Connecting intention and reasoning in a shared plan avoids relying only on who is more forceful. Small, clear responsibilities make both people's contributions visible."
+      ],
+      "attention": [
+        "Bir konuyu daha hızlı üstlenmek her seferinde son sözü söyleme hakkı vermez. Kararsızlık yaşanan anlarda ise işi tamamen diğerine bırakmak yerine somut bir katkı belirleyin.",
+        "Taking charge quickly does not give someone the final say every time. When a decision feels difficult, identify a concrete contribution rather than leaving everything to the other person."
+      ],
+      "practice": [
+        "Bu haftaki ortak bir iş için kimin başlatacağını, kimin hangi adımı üstleneceğini ve ne zaman tamamlanacağını netleştirin.",
+        "For one shared task this week, agree on who starts it, who handles each step and when it will be finished."
+      ],
+      "code": "RESPONSIBILITY",
+      "contrasts": []
+    },
+    {
+      "title": [
+        "Günlük hayat ritminiz",
+        "Your everyday rhythm"
+      ],
+      "context": [
+        "Birlikte zaman geçirmek kadar o zamanı hangi yoğunlukta geçirdiğiniz de önemlidir. Günlük yükler, hareket ve dinlenme arasında kurduğunuz düzen, birbirinizin temposunu yanlış yorumlamadan anlaşmanıza yardımcı olabilir.",
+        "The intensity of shared time matters as well as its amount. An agreed balance of demands, activity and rest can help you understand each other's pace without misreading it."
+      ],
+      "opportunity": [
+        "Sürdürülebilir bir ortak ritim, yalnız daha çok şey yapmak değil yapılanları taşıyabilmektir. Yoğun günlerle sakin günleri birlikte planlamak, ilişkinin gündelik yükünü paylaşmayı kolaylaştırabilir.",
+        "A sustainable rhythm is not only about doing more, but about being able to carry what you take on. Planning busy and quiet periods together can help share everyday demands."
+      ],
+      "attention": [
+        "Tempo değişimini otomatik olarak sevgisizlik veya isteksizlik saymayın. Birlikte yapılacaklar konusunda anlaşırken kişisel dinlenme alanını da hesaba katın.",
+        "Do not automatically read a change of pace as lack of affection or interest. Include individual recovery time when agreeing on shared activities."
+      ],
+      "practice": [
+        "Haftanızda birlikte hareketli geçireceğiniz bir zaman ve serbest bırakacağınız bir dinlenme aralığı belirleyin.",
+        "Agree on one active shared period and one protected rest period during the week."
+      ],
+      "code": "PACE",
+      "contrasts": [
+        {
+          "first": "energetic",
+          "second": "selective_energy",
+          "reading": [
+            "Biriniz hareketi ve dışa dönük tempoyu daha geniş kullanırken diğeriniz enerjisini daha seçici dağıtıp sakin alanı korumaya yönelebilir. Bu fark ilişkinin isteksizliği değil, günlük ritmin farklı kurulması olarak ele alınmalı.",
+            "One approach expresses energy through a more active pace; the other uses energy selectively and protects quiet space. Treat this as a difference in daily rhythm, not a lack of interest in the relationship."
+          ],
+          "opportunity": [
+            "Hareketli taraf ortak deneyimler başlatabilir; seçici tempo ise planı daha sürdürülebilir tutabilir. Her etkinliği birlikte yapmak zorunda olmadığınızı kabul etmek de beraberliğin niteliğini artırabilir.",
+            "Activity can initiate shared experiences, while a selective pace can keep plans sustainable. Accepting that not every activity must be shared can also improve the quality of time together."
+          ],
+          "attention": [
+            "Bir tarafı sürekli hızlandırmak veya diğerini sürekli yavaşlatmak yerine yoğunluğu önceden konuşun. Katılmama ihtimalini kişisel reddedilme saymadan önce ihtiyacı öğrenin.",
+            "Discuss intensity beforehand rather than constantly speeding one person up or slowing the other down. Ask about the need before taking non-participation as personal rejection."
+          ],
+          "practice": [
+            "Bir plan yaparken süreyi, yoğunluğu ve sonrasındaki dinlenme payını birlikte kararlaştırın.",
+            "When making a plan, agree on its duration, intensity and recovery time afterward."
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "Ortak hedefler ve yaşam düzeni",
+        "Shared goals and life structure"
+      ],
+      "context": [
+        "Kariyer, üretim ve sorumluluklara verdiğiniz anlam ortak hayatın planını da etkileyebilir. Aynı hedefi istemek kadar o hedefe ne yolla ilerlemek istediğinizi bilmek önemlidir.",
+        "The meaning you give to work, contribution and responsibility can affect the structure of your shared life. Knowing how each person wants to progress matters alongside wanting the same outcome."
+      ],
+      "opportunity": [
+        "Birinizin yön duygusunu diğerinin katkısını küçültmeden kullanmak, ortak hedefi daha taşınabilir hale getirebilir. Destek, emek ve kişisel tatmini birlikte konuşmak planın yalnız sonuçtan ibaret kalmasını önler.",
+        "Using one person's sense of direction without diminishing the other's contribution can make a shared goal more sustainable. Discussing support, effort and personal fulfillment keeps the plan from being only about the result."
+      ],
+      "attention": [
+        "Bir hedefe bağlılığı, planın hiç değişmemesi gerektiği şeklinde okumayın. Ortak yaşam düzeni kurulurken kişisel sorumlulukların ve destek beklentilerinin örtük kalması yük dağılımını bozabilir.",
+        "Commitment to a goal need not mean a plan can never change. Unspoken responsibilities or expectations of support can make the distribution of effort less balanced."
+      ],
+      "practice": [
+        "Önümüzdeki dönem için ortak bir hedef seçin; her birinizin katkısını, ihtiyaç duyduğu desteği ve planı gözden geçireceğiniz zamanı belirleyin.",
+        "Choose one shared goal and agree on each person's contribution, support needs and a time to review the plan."
+      ],
+      "code": "DIRECTION",
+      "contrasts": []
+    }
+  ]
+}

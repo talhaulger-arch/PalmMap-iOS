@@ -1,0 +1,142 @@
+{
+  "HEAD_001": {
+    "module": "head_line",
+    "meaning": [
+      "Bu elde görülen net ve dengeli Akıl çizgisi, hafızayı düzenli kullanma, düşünceyi sürdürebilme ve pratik muhakeme kurma eğilimini destekler. Zihin yalnız fikir üretmekle kalmaz; bilgiyi işe yarar bir sonuca dönüştürme tarafı da güçlü çalışabilir. Karar verirken konuya tekrar dönebilen, bağlantıları koruyabilen ve düşünce zincirini kolay kaybetmeyen bir yapı anlatılır. Bu yapı, kullanılabilir zekâ ve sağlam değerlendirme kapasitesiyle ilişkilendirilir.",
+      "A clear, balanced Head line is associated with good memory, sustained thought, practical judgment, and usable intelligence. The constructive theme is turning information into a workable result."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_B8D816D2D3F7",
+    "threshold": 0.72
+  },
+  "HEAD_002": {
+    "module": "head_line",
+    "meaning": [
+      "Uzun Akıl çizgisi; bilimsel ve analitik düşünceye yatkınlık, yerinde sağduyu, düşünceyi bir istikamet üzerinde sürdürebilme ve güçlü gerçeklik duygusuyla ilişkilendirilir. Yaratıcı hayal gücü de bu yapıya eşlik edebilir; kişi hem üretmek hem de ortaya koyduğu işin değer görmesini istemeye yatkın olabilir. Bir fikri kolay bırakmamak güçlü sebat sağlar, fakat kendi görüşüne aşırı bağlanırsa inatçılığa dönebilir.",
+      "A long Head line is associated with scientific and analytical aptitude, sound practical judgment, sustained direction of thought, and a strong sense of reality. Creative imagination may accompany it, together with a wish for one's work to be valued. Persistence can be a major strength, but holding one view too tightly may turn it into stubbornness."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_9A923037341D",
+    "threshold": 0.72
+  },
+  "HEAD_003": {
+    "module": "head_line",
+    "meaning": [
+      "Akıl çizgisinin çok uzun olması, zihnin bir konuyu uzun süre taşıma, ayrıntıları bırakmama ve düşünceyi kapatmakta zorlanma eğilimini güçlendirir. Bu yapı derin çalışma için avantajlıdır; aşırıya kaçtığında zihinsel meşguliyet ve gereğinden fazla düşünme yaratabilir.",
+      "A very long Head line is associated with prolonged concentration and a mind that can stay with detail for a very long time. The same strength can become mental over-occupation if there is no point at which thought is converted into action."
+    ],
+    "polarity": "mixed",
+    "evidenceGroup": "EV_6C4AB82606A1",
+    "threshold": 0.72
+  },
+  "HEAD_004": {
+    "module": "head_line",
+    "meaning": [
+      "Kısa Akıl çizgisi, zihinsel kapasitenin yokluğunu değil, düşüncenin kontrol ve seçicilik tarafında daha fazla dikkat gerektirebileceğini gösterir. Zihin hızlı çalışabilir ve pratik sonuca çabuk gidebilir; ancak neyin önemli olduğunu ayırmadan hareket edildiğinde acelecilik ve dağınık karar riski artar. Güçlü taraf hızdır; geliştirilmesi gereken taraf, karardan önce kısa bir eleme ve kontrol alışkanlığıdır.",
+      "A short Head line does not imply lack of intelligence; it suggests that control and selectivity in thought may need more deliberate attention. The mind can work quickly and move fast toward a practical result, but acting before separating what matters can increase impulsive or scattered decisions. Speed is the strength; a brief filtering step before action is the useful counterbalance."
+    ],
+    "polarity": "mixed",
+    "evidenceGroup": "EV_B57129398A75",
+    "threshold": 0.72
+  },
+  "HEAD_012": {
+    "module": "head_line",
+    "meaning": [
+      "Akıl çizgisinin düz ilerlemesi, düşüncede somutluk, hesap, düzen ve uygulanabilir sonuç arayışını güçlendirir. Karar verirken varsayımdan çok gerçek koşullara, ölçülebilir sonuca ve mantıksal bağlantıya ağırlık verme eğilimi vardır. Planlama, hesap yapma, teknik veya pratik sorun çözme tarafı bu yapıyla uyumludur. Hayal gücü tamamen yok değildir; ancak son sözü çoğu zaman 'bu gerçekten işe yarıyor mu?' sorusu söyler.",
+      "A straight Head line is associated with concrete reasoning, calculation, order, and preference for applicable results. It favors evidence and practical structure over untested assumptions."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_33707AD8AB1E",
+    "threshold": 0.72
+  },
+  "HEAD_013": {
+    "module": "head_line",
+    "meaning": [
+      "Akıl çizgisinin Ay bölgesine eğilmesi, hayal gücü, sezgisel kavrayış ve yaratıcı düşüncenin zihinsel yapıda belirgin yer tuttuğunu gösterir. İnsan davranışını sezme, hikâye kurma, tasarım, yeni fikir üretme veya soyut bağlantılar kurma becerileri güçlenebilir. Zihin yalnız mevcut gerçekle yetinmeyip olasılıkları ve alternatif senaryoları da düşünmeye yatkındır. Eğim çok derinleştiğinde ise hayal ile uygulanabilir gerçek arasındaki sınırı korumak daha önemli hale gelir.",
+      "A Head line sloping toward Moon is associated with imagination, intuitive association, and creative thought having a meaningful place in the mental structure. Its best use is to connect imagination to something that can be produced or tested."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_CC447BAE0BE1",
+    "threshold": 0.72
+  },
+  "HEART_001": {
+    "module": "heart_line",
+    "meaning": [
+      "Net, düzenli ve dengeli Kalp çizgisi; sevgide ciddiyet, sadakat, sağlam dostluk, duygusal süreklilik ve uyum arayışıyla ilişkilendirilir. Sıcaklık, cömertlik, hassasiyet ve insanlarla kolay bağ kurma tarafı belirgin olabilir. Duyguyu ifade ederken etkili ve ikna edici bir anlatım da bu yapıya eşlik edebilir; çevre üzerinde olumlu etki bırakma kapasitesi artabilir. En güçlü tarafı, duyguyu yalnız hissetmek değil günlük davranışta tutarlı biçimde göstermektir.",
+      "A clear, balanced Heart line is associated with seriousness in love, loyalty, solid friendship, emotional continuity, and a wish for harmony. Warmth, generosity, sensitivity, and ease in connecting with people may stand out. Effective and persuasive emotional expression can also accompany this pattern, increasing positive social influence. Its strongest side is not merely feeling deeply, but expressing care consistently in daily behavior."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_7E58F2EA64F4",
+    "threshold": 0.72
+  },
+  "HEART_002": {
+    "module": "heart_line",
+    "meaning": [
+      "Uzun Kalp çizgisi, sevgi ve bağlılığın güçlü, içten ve uzun süreli yaşanabilmesiyle ilişkilendirilir. Duygusal yatırım, cömertlik ve ideal arayışı belirgin olabilir; kişi bağ kurduğunda kolay vazgeçmeyebilir. Bu yoğunluk güven zayıf olduğunda sahiplenme veya kıskançlığa dönüşebilir. Güçlü taraf derin bağlılık, dengeleyici taraf ise karşı tarafın özgürlüğünü korumaktır.",
+      "A long Heart line is associated with strong, sincere, sustained affection and commitment. Emotional investment, generosity, and idealism may be pronounced, and once attached the person may not give up easily. When trust is weak, the same intensity can turn into possessiveness or jealousy. Deep commitment is the strength; preserving the other person's freedom is the balance."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_4ADBC02AF067",
+    "threshold": 0.72
+  },
+  "LIFE_001": {
+    "module": "life_line",
+    "meaning": [
+      "Net ve kesintisiz Hayat çizgisi, dayanıklılık, toparlanma gücü ve yaşam enerjisinin daha istikrarlı kullanılmasını destekleyen temel işaretlerden biridir. Kişi günlük yükleri taşırken enerjisini tamamen dağınık kullanmak yerine daha düzenli sürdürebilir. Zorlanma sonrasında yeniden ritim bulma ve devam etme kapasitesi bu yorumun önemli tarafıdır. Bu çizgi yaşam süresini ölçmez; anlamı dayanıklılık ve yaşam gücünün ifade biçimidir.",
+      "A clear, continuous Life line is associated with stable vitality, resilience, and the ability to regain rhythm after strain. It describes how life energy is expressed, not the number of years a person will live."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_1F21ADC5831E",
+    "threshold": 0.72
+  },
+  "LIFE_002": {
+    "module": "life_line",
+    "meaning": [
+      "Uzun Hayat çizgisi, fiziksel canlılık ve dayanıklılığın kısa bir dönemle sınırlı kalmayıp daha uzun süreçlere yayılabilmesiyle ilişkilendirilir. Bu yapı ilerleyen dönemlerde de hareketli ve dirençli kalma eğilimini destekler; sıcak ve eli açık bir tavır da bu işaretle birlikte anılabilir. Çizgi aşırı uzun ama çok inceyse aynı enerji daha hassas ve gergin kullanılabilir. Bu bulgu yaşam süresi hesabı değildir.",
+      "A long Life line is associated with vitality and endurance extending across long periods rather than appearing only in short bursts. It may support remaining active and resilient over time, and can accompany a warm, generous disposition. If extremely long yet very fine, the same energy may be expressed more sensitively or tensely. This is not a lifespan calculation."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_E47B92DA9A66",
+    "threshold": 0.72
+  },
+  "THUMB_P1_001": {
+    "module": "thumb_phalanx",
+    "meaning": [
+      "Birinci başparmak boğumunun uzun olması güçlü irade, enerji, özgüven, sorumluluk alma ve otorite kullanma eğilimiyle ilişkilendirilir. Başlatma ve kararın arkasında durma kapasitesi yüksektir. Bu gücün kalitesi ikinci boğumdaki muhakemeyle birlikte değerlendirilmelidir; irade tek başına kaldığında inat veya baskıya dönüşebilir.",
+      "A long first thumb phalanx is associated with strong will, energy, self-confidence, responsibility, and authority. It supports initiation and persistence. Its quality should be read together with the second phalanx: will without enough reasoning can become stubbornness or pressure."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_03D4B1D101F2",
+    "threshold": 0.74
+  },
+  "THUMB_P1_011": {
+    "module": "thumb_phalanx",
+    "meaning": [
+      "Birinci başparmak boğumunun kısa olması kendini ortaya koymada zayıflık, sabırsızlık, başkasına dayanma ve dış etkiye daha kolay yönelme temalarıyla ilişkilendirilir. Bu, iradesizlik damgası değildir; kararın başında güven ve yapı ihtiyacının daha yüksek olabileceğini anlatır. Küçük taahhütleri tutmak ve baskı altında hemen yön değiştirmemek dengeleyici çalışmadır.",
+      "A short first thumb phalanx is linked to reduced assertion, impatience, dependence, and susceptibility to influence. This is not a label of “no will”; it suggests greater need for structure and confidence at the start of decisions. Keeping small commitments and resisting immediate pressure are useful counterweights."
+    ],
+    "polarity": "negative",
+    "evidenceGroup": "EV_23BFED94D6BA",
+    "threshold": 0.74
+  },
+  "THUMB_P2_002": {
+    "module": "thumb_phalanx",
+    "meaning": [
+      "İkinci başparmak boğumunun uzun olması düşünce, hayal gücü, görev bilinci ve gerekçeli davranma tarafının güçlü çalışmasıyla ilişkilendirilir. Kararın nedenini tartmak ve farklı sonucu zihinde canlandırmak avantajdır. Aşırıya kaçtığında düşünce iradenin önüne geçip kararı yavaşlatabilir; en iyi sonuç muhakemeyi uygulanabilir seçimle tamamlamaktır.",
+      "A long second thumb phalanx is associated with strong thought, imagination, duty orientation, and reasoned behavior. Weighing reasons and possible outcomes can be a strength. In excess, thinking may outrun will and slow decisions, so reasoning should end in an actionable choice."
+    ],
+    "polarity": "positive",
+    "evidenceGroup": "EV_C8ECCF26DE41",
+    "threshold": 0.74
+  },
+  "THUMB_P2_003": {
+    "module": "thumb_phalanx",
+    "meaning": [
+      "İkinci başparmak boğumunun kısa olması mantığı daha az devreye sokma ve duygusal ya da öfkeli tepkiye daha hızlı geçme eğilimiyle ilişkilendirilir. Hızlı karar bazı durumlarda avantaj olabilir; fakat özellikle geri dönüşü zor kararlarda kısa bir kontrol adımı gerekir. Bu oran zekâ ölçümü değildir, karar sürecindeki dengeyi anlatan destekleyici bir işarettir.",
+      "A short second thumb phalanx is associated with less frequent use of deliberate logic and faster emotional or angry responses. Speed can sometimes help, but high-consequence decisions benefit from a brief verification step. This is not an intelligence measure; it is a supporting cue about decision balance."
+    ],
+    "polarity": "negative",
+    "evidenceGroup": "EV_53CD74B4E2FB",
+    "threshold": 0.74
+  }
+}

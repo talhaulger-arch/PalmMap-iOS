@@ -1,0 +1,7 @@
+PALMMAP_GATEWAY_HOST = palmmap-api-p4tugyws6q-ew.a.run.app
+PALMMAP_APPLE_TEAM =
+PALMMAP_BUNDLE_ID = com.palmmap.app
+PALMMAP_GOOGLE_REVERSED_CLIENT_ID = com.googleusercontent.apps.palmmap-placeholder
+PALMMAP_ADMOB_APP_ID = ca-app-pub-3940256099942544~1458002511
+PALMMAP_ADMOB_REWARDED_ID =
+#include? "Local.xcconfig"
